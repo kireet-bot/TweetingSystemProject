@@ -12,14 +12,14 @@ Tweet Creation: Users can create new tweets by providing content and associating
 Tweet Retrieval: Users can retrieve a list of all their tweets or view a specific tweet by its ID.
 Tweet Update: Users can update the content of their tweets by sending a PUT request with the updated content and tweet ID.
 Tweet Deletion: Users can delete their tweets by sending a DELETE request with the tweet ID.
-User Interaction: Users can follow other users, view their tweets, and engage in social interactions such as liking or commenting on tweets.
+User Interaction: Users can view other users, view their tweets, and engage in social interactions such as commenting on tweets.
 
 Technology Stack:
 
 Programming Language: Java
 Framework: Spring Boot
 Object-Relational Mapping (ORM): Hibernate
-Database: MySQL or any other supported database
+Database: MySQL 
 API Development: RESTful APIs
 IDE:IntelliJ IDEA
 
